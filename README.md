@@ -1,5 +1,5 @@
 # CONEXIÓN DE INTELLIJ A LA BASE DE DATOS MYSQL
-## Programacion 1: Orientada a objetos basica
+## Programacion 1: Orientada a objetos básica
 ## S25 evidencia de aprendizaje 3
 
 #### Jorge Eliecer Cuervo Zapata
